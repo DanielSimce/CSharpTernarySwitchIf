@@ -1,0 +1,6 @@
+D:\Trening C#\W3Schools\Switch\Switch\bin\Debug\Switch.exe.config
+D:\Trening C#\W3Schools\Switch\Switch\bin\Debug\Switch.exe
+D:\Trening C#\W3Schools\Switch\Switch\bin\Debug\Switch.pdb
+D:\Trening C#\W3Schools\Switch\Switch\obj\Debug\Switch.csprojAssemblyReference.cache
+D:\Trening C#\W3Schools\Switch\Switch\obj\Debug\Switch.exe
+D:\Trening C#\W3Schools\Switch\Switch\obj\Debug\Switch.pdb
